@@ -129,6 +129,6 @@ Below are things I've found that are either outdated with the engine updates, or
 ## Improve performance by making your game look like a potato
 Using NVIDIA Profile Inspector to set negative LOD clamping can make textures look like play-doh:
 * Discussion thread here: https://forums.guru3d.com/threads/getting-nv-profile-inspector-to-have-an-effect-on-games-that-use-deferred-rendering-destiny-2.430951/
-* Different thread here, toohttps://steamcommunity.com/sharedfiles/filedetails/?id=1884111121l
+* Different thread here: https://steamcommunity.com/sharedfiles/filedetails/?id=1884111121l
 ## Compatibility Mode fiddling
 You can right click on the `Destiny2Launcher.exe` and/or `Destiny2.exe` binaries and mess around with Windows app Compatability Settings; some people reported improvements when disabling `fullscreen optimizations` or fiddling with `high DPI settings`, but I observed no change.
